@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hexo入门</title>
+    <url>/2021/12/31/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>技术工具</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>MarkDown语法</title>
+    <url>/2021/12/31/test-my-site/</url>
+    <content><![CDATA[<h2 id="MarkDown语法"><a href="#MarkDown语法" class="headerlink" title="MarkDown语法"></a>MarkDown语法</h2><h3 id="无序列表的使用"><a href="#无序列表的使用" class="headerlink" title="无序列表的使用"></a>无序列表的使用</h3><ul>
+<li>列表1</li>
+<li>列表2</li>
+</ul>
+<h3 id="超链接"><a href="#超链接" class="headerlink" title="超链接"></a>超链接</h3><p><a href="http://www.baidu.com/">百度</a></p>
+<h3 id="放置图片"><a href="#放置图片" class="headerlink" title="放置图片"></a>放置图片</h3><p><img src="https://s4.ax1x.com/2022/01/01/TIORGd.gif" alt="自拍照"></p>
+<h3 id="字体斜放-加粗"><a href="#字体斜放-加粗" class="headerlink" title="字体斜放/加粗"></a>字体斜放/加粗</h3><p><em>字体斜放</em><br><strong>字体加粗</strong></p>
+<h3 id="代码块引用-单行代码块-多行代码块"><a href="#代码块引用-单行代码块-多行代码块" class="headerlink" title="代码块引用 单行代码块  多行代码块"></a>代码块引用 单行代码块  多行代码块</h3><p><code>&lt;html&gt;&lt;/html&gt;</code></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;html&gt;</span><br><span class="line">&lt;/html&gt;</span><br></pre></td></tr></table></figure>
+
+<h3 id="标注内容是引用的"><a href="#标注内容是引用的" class="headerlink" title="标注内容是引用的"></a>标注内容是引用的</h3><blockquote>
+<p>我的内容是引用的</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>技术工具</category>
+      </categories>
+  </entry>
+</search>
